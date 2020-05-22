@@ -3,8 +3,7 @@
   "path": "bundle-r-intermediate",
   "last_modified": "2020-05-22T04:58:24.507000Z",
   "created": "2020-05-22T04:58:32.518000Z",
-  "content": [
-    {
+  "content": [{
       "name": "02_p_values.ipynb",
       "path": "bundle-r-intermediate/02_p_values.ipynb",
       "last_modified": "2020-05-22T04:58:24.369000Z",
@@ -75,18 +74,6 @@
       "size": 5742,
       "writable": true,
       "type": "notebook"
-    },
-    {
-      "name": "data",
-      "path": "bundle-r-intermediate/data",
-      "last_modified": "2020-05-22T04:58:24.665000Z",
-      "created": "2020-05-22T04:58:32.496000Z",
-      "content": null,
-      "format": null,
-      "mimetype": null,
-      "size": null,
-      "writable": true,
-      "type": "directory"
     },
     {
       "name": "09_residuals_vs_leverage.ipynb",
