@@ -3,8 +3,7 @@
   "path": "bundle-r-intro",
   "last_modified": "2020-05-22T03:20:55.408000Z",
   "created": "2020-05-22T03:20:55.408000Z",
-  "content": [
-    {
+  "content": [{
       "name": "00_variables.ipynb",
       "path": "bundle-r-intro/00_variables.ipynb",
       "last_modified": "2020-05-22T03:20:55.403000Z",
@@ -51,18 +50,6 @@
       "size": 14514,
       "writable": true,
       "type": "notebook"
-    },
-    {
-      "name": "data",
-      "path": "bundle-r-intro/data",
-      "last_modified": "2020-05-22T02:38:12.700000Z",
-      "created": "2020-05-22T03:10:36.571000Z",
-      "content": null,
-      "format": null,
-      "mimetype": null,
-      "size": null,
-      "writable": true,
-      "type": "directory"
     },
     {
       "name": "07_names.ipynb",

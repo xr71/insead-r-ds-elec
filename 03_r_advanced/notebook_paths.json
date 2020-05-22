@@ -1,0 +1,85 @@
+{
+  "name": "bundle-r-adv",
+  "path": "bundle-r-adv",
+  "last_modified": "2020-05-22T04:58:32.258000Z",
+  "created": "2020-05-22T04:58:32.443000Z",
+  "content": [
+    {
+      "name": "03_multicollinearity.ipynb",
+      "path": "bundle-r-adv/03_multicollinearity.ipynb",
+      "last_modified": "2020-05-22T04:58:32.236000Z",
+      "created": "2020-05-22T04:58:32.449000Z",
+      "content": null,
+      "format": null,
+      "mimetype": null,
+      "size": 9088,
+      "writable": true,
+      "type": "notebook"
+    },
+    {
+      "name": "01_correlation.ipynb",
+      "path": "bundle-r-adv/01_correlation.ipynb",
+      "last_modified": "2020-05-22T04:58:32.195000Z",
+      "created": "2020-05-22T04:58:32.453000Z",
+      "content": null,
+      "format": null,
+      "mimetype": null,
+      "size": 15281,
+      "writable": true,
+      "type": "notebook"
+    },
+    {
+      "name": "02_overfitting.ipynb",
+      "path": "bundle-r-adv/02_overfitting.ipynb",
+      "last_modified": "2020-05-22T04:58:32.213000Z",
+      "created": "2020-05-22T04:58:32.457000Z",
+      "content": null,
+      "format": null,
+      "mimetype": null,
+      "size": 24857,
+      "writable": true,
+      "type": "notebook"
+    },
+    {
+      "name": "00_multi.ipynb",
+      "path": "bundle-r-adv/00_multi.ipynb",
+      "last_modified": "2020-05-22T04:58:32.179000Z",
+      "created": "2020-05-22T04:58:32.461000Z",
+      "content": null,
+      "format": null,
+      "mimetype": null,
+      "size": 12981,
+      "writable": true,
+      "type": "notebook"
+    },
+    {
+      "name": "data",
+      "path": "bundle-r-adv/data",
+      "last_modified": "2020-05-22T04:58:32.360000Z",
+      "created": "2020-05-22T04:58:32.466000Z",
+      "content": null,
+      "format": null,
+      "mimetype": null,
+      "size": null,
+      "writable": true,
+      "type": "directory"
+    },
+    {
+      "name": "04_categorical.ipynb",
+      "path": "bundle-r-adv/04_categorical.ipynb",
+      "last_modified": "2020-05-22T04:58:32.254000Z",
+      "created": "2020-05-22T04:58:32.501000Z",
+      "content": null,
+      "format": null,
+      "mimetype": null,
+      "size": 10649,
+      "writable": true,
+      "type": "notebook"
+    }
+  ],
+  "format": "json",
+  "mimetype": null,
+  "size": null,
+  "writable": true,
+  "type": "directory"
+}
